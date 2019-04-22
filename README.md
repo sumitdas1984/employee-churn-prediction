@@ -7,5 +7,4 @@ In this study
 * Implement a classification model for the dataset with good prediction results.
 
 ## Data
-
-## Conclusion
+HR Analytics data published in Kaggle to resolve employee churn prediction. Dataset is also exist in project folder, you can access easily.
