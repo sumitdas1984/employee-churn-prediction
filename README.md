@@ -1,4 +1,4 @@
-# Employee Churn Prediction Using Machine Learning
+# Employee Churn Prediction Using Tradictional ML and DL
 
 Employee churn is the departure of an intellectual asset from a company or organization. Alternatively, in simple words, you can say, when employees leave the organization is known as churn.
 
